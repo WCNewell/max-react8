@@ -1,6 +1,13 @@
 {
-  "main.css": "static/css/main.55d150e3.css",
-  "main.css.map": "static/css/main.55d150e3.css.map",
-  "main.js": "static/js/main.65ffe722.js",
-  "main.js.map": "static/js/main.65ffe722.js.map"
+  "main.css": "/max-react8/static/css/main.58e7a265.chunk.css",
+  "main.js": "/max-react8/static/js/main.24ad289c.chunk.js",
+  "main.js.map": "/max-react8/static/js/main.24ad289c.chunk.js.map",
+  "static/js/1.c88e4f00.chunk.js": "/max-react8/static/js/1.c88e4f00.chunk.js",
+  "static/js/1.c88e4f00.chunk.js.map": "/max-react8/static/js/1.c88e4f00.chunk.js.map",
+  "runtime~main.js": "/max-react8/static/js/runtime~main.6eb0bcc7.js",
+  "runtime~main.js.map": "/max-react8/static/js/runtime~main.6eb0bcc7.js.map",
+  "static/css/main.58e7a265.chunk.css.map": "/max-react8/static/css/main.58e7a265.chunk.css.map",
+  "index.html": "/max-react8/index.html",
+  "precache-manifest.a329cd5acad4a9d0cd7a75e1470f789c.js": "/max-react8/precache-manifest.a329cd5acad4a9d0cd7a75e1470f789c.js",
+  "service-worker.js": "/max-react8/service-worker.js"
 }
